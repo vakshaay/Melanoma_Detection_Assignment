@@ -38,7 +38,8 @@ To overcome the issue of class imbalance, used a python package Augmentor (https
 The model was trained with ~20 epochs and tested with ~50 epochs and found to be 92% accurate (Refer to the "Train the Model" section in the python note book "Akshaay_Vijay_nn.ipynb")
 
 ## Optional Information to the Consumer
-Please place the Dataset folder in the Google drive path mentioned in the script.
+Place the Dataset folder in the google drive path mentioned in the python script before executing the script.
+
 Dataset Path: "/content/gdrive/MyDrive/CNN_assignment.zip"
 
 ## Contact
