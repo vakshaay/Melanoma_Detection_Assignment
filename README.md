@@ -35,7 +35,7 @@ To overcome the issue of class imbalance, used a python package Augmentor (https
 
 
 # Conclusion:
-The model was trained with ~20 epochs and tested with ~50 epochs and found to be 92% accurate (Refer to the "Train the Model" section in the python note book "Melanoma_Detection_Assignment.ipynb")
+The model was trained with ~20 epochs and tested with ~50 epochs and found to be 92% accurate (Refer to the "Train the Model" section in the python note book "Akshaay_Vijay_nn.ipynb")
 
 
 ## Contact
